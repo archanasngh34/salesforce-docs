@@ -1,0 +1,24 @@
+What is Cloud?
+The term Cloud refers to a Network or the Internet. The cloud can provide services
+over networks i.e. on Public Networks or on Private Networks i.e. WAN – Wide Area
+Network, LAN – Local Area Network. (high-processing computer)
+Applications such as Email, Web Conferencing, and Customer Relationship
+Management (CRM), all run in the cloud.
+What is Cloud Computing in Salesforce?
+It is defined as a mode for enabling convenient, on-demand network access to a
+shared pool of configurable and reliable computing resources like Networks, Servers,
+Storage, Applications, Services, etc that can be manipulated, configured, and
+accessed remotely.
+It oǣers platform independency, as the software is not required to be installed locally
+on the PC. Hence, it is making our business applications, mobile and collaborative.
+Cloud Computing Architecture
+Cloud Computing Architecture comprises many cloud components, each of which is
+loosely coupled. We can broadly divide the cloud architecture into two parts:
+Front End:
+Front End refers to the client part of the computing system. It consists of interfaces
+and applications that are required to access the computing platforms. Example: Web
+Browser
+Back End:
+Back End refers to the cloud itself. It consists of all the resources required to provide
+cloud computing services. It comprises huge Data Storage, Virtual Machines, Security
+mechanisms, Services, Deployment Models, Servers, etc.
